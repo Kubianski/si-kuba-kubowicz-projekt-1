@@ -1,6 +1,7 @@
 body {
     font-family: 'Segoe UI', sans-serif;
     background: #262626;
+    display: flex;
 }
 
 h1, span, p {
@@ -13,12 +14,14 @@ span {
 }
 
 main {
-    display: flex;
+    width: 100vh;
     text-align: center;
     align-items: center;
     display: inline-block;
     flex-direction: column;
 
-
 }
 
+img {
+    width: 25px;
+}
