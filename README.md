@@ -39,7 +39,8 @@
 
 ## ✨ Autor
 
-👤 Jakub Kubowicz
+### 👤 Jakub Kubowicz
+
 Projekt stworzony w ramach zajęć z tworzenia stron internetowych
 📅 Rok akademicki 2025/2026
 
