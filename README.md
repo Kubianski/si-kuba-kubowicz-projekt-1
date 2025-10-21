@@ -20,23 +20,28 @@
 ## 🧠 Technologie
 
 - **HTML5**
-- **CSS3 / Tailwind CSS** *(lub własny design)*
-- **JavaScript (ES6)**  
-- (opcjonalnie) **Vite** lub **React**  
-- (opcjonalnie) **JSON / LocalStorage** do przechowywania danych zamówienia  
+- **CSS**
+- (opcjonalne) **JavaScript**  
 
 ---
 
 ## 💡 Cele projektu
 
 - Nauka tworzenia interaktywnych interfejsów użytkownika (UI/UX)  
-- Ćwiczenie pracy z DOM i obsługi zdarzeń w JavaScript  
 - Projektowanie modularnej i czytelnej struktury kodu  
 - Poznanie procesów podobnych do tych w realnych systemach sprzedażowych  
 
 ---
 
 ## 🧩 Struktura projektu
+
+---
+
+## ✨ Autor
+
+👤 Jakub Kubowicz
+Projekt stworzony w ramach zajęć z tworzenia stron internetowych
+📅 Rok akademicki 2025/2026
 
 ---
 
