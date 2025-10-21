@@ -38,3 +38,8 @@
 
 ## 🧩 Struktura projektu
 
+---
+
+## 📜 Licencja
+Projekt udostępniany do celów edukacyjnych.
+Nie jest powiązany z marką McDonald’s® — wszystkie znaki towarowe należą do ich właścicieli.
