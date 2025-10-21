@@ -1,0 +1,60 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+header img {
+    scale: 0.05;
+    margin-top: -450px;
+}
+
+main > h1 {
+    margin-top: -500px;
+    font-size: 100px;
+    color: #222c40;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+#choose span {
+    font-size: 30px;
+}
+
+#choose {
+    display: flex;
+
+}
+
+#choose img{
+    width: 200px;
+    padding-top: 40px;
+}
+
+.content {
+    border: 2px solid gray;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+
+    padding-inline: 0px;
+    margin: 20px;
+}
+
