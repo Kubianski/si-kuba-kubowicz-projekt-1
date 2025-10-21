@@ -1,0 +1,68 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+    display: flex;
+    flex-direction: row;
+}
+
+h1 {
+    
+    color: rgb(255, 255, 255);
+}
+
+header {
+    background: rgb(246, 208, 42);
+    margin-top: 0px;
+    padding: 0px;
+}
+
+main {
+
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+  scale: 0.99;
+  margin-top: 0px;
+  padding-left: 10px;
+}
+
+.products img {
+    scale: 80%;
+}
+
+.products {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+.products > div {
+    outline: 1px solid black;
+    width: 50%;
+    margin: 10px;
+    border-radius: 20px;
+    max-width: 100%;
+}
+
+.products span {
+    padding-left: 10%;
+}
+
+.add-to-cart {
+    background: green;
+    width: 35%;
+    height: 2vh;
+    color: white;
+    border: none;
+    border-radius: 10vh;
+    max-width: 25%;
+
+}
