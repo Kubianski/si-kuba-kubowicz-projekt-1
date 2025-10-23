@@ -58,3 +58,47 @@ a {
     margin: 20px;
 }
 
+h2 {
+    color: #222c40;
+}
+
+footer {
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+button {
+    background: white;
+    border: 1px solid #222c40;
+    scale: 1.75;
+    border-radius: 3px;
+    margin-inline: 35px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    width: 80px;
+}
+
+
+button:hover, button:active {
+    background: rgb(214, 214, 214);
+}
+
+#scan {
+    background: #FFCA00;
+    padding: 30px;
+    margin: 0px;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    align-self: flex-start;
+    flex-direction: column;
+    margin-top: 10px;
+}
+
+#scan img {
+    width: 60px;
+    padding-bottom: 10px;
+}
