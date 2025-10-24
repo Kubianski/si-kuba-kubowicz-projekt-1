@@ -1,5 +1,7 @@
 body {
     font-family: 'Segoe UI', sans-serif;
+    /* display: flex; */
+    
 }
 
 
@@ -46,7 +48,106 @@ li {
     box-shadow: 0 0 3px rgba(0, 0, 0, 0.3);
 }
 
-a {
+a, h1, h2 {
     text-decoration: none;
     color: #222c40;
+}
+
+main {
+    margin-left: 30px;
+}
+
+#ad {
+    width: 400px;
+    border-radius: 10px;
+}
+
+#zakladki button {
+    width: 100px;
+    height: 100px;
+}
+
+#zakladki {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  max-width: 400px;
+  margin: 10px;
+  margin-left: 0px;
+}
+
+#zakladki button {
+  flex: 1 1 calc(50% - 10px);
+  padding: 10px;
+  font-size: 16px;
+  border-radius: 8px;
+  border: none;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+  background: white;
+  cursor: pointer;
+}
+
+#rest {
+    display: flex;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-left: -650px;
+    position: sticky;
+}
+
+
+footer #view-order {
+    background: #FFCA00;
+    border: 1px solid #ebbc00;
+    height: 30px;
+    width: 170px;
+    border-radius: 3px;
+    margin-inline: 30px;
+    cursor: pointer;
+    margin-right: -55px;
+}
+
+footer h2 {
+    margin-right: 70px;
+}
+
+footer .other-buttons {
+    background: white;
+    border: 1px solid black;
+    border-radius: 3px;
+    margin-inline: 10px;
+    height: 30px;
+    width: 190px;
+    cursor: pointer;
+}
+
+footer #other {
+    margin-left: -100px;
+}
+
+footer #order {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+li img {
+    margin-bottom: -3px;
+    height: 20px;
+    width: 20px;
+    margin-right: 10px;
+}
+
+main button img {
+    width: 100px;
+}
+
+main button a {
+
 }
